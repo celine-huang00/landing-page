@@ -1,0 +1,15 @@
+
+.btn-light{
+  background-color: rgba(240,240,240,0.8);
+  color: black;
+  padding: 4px 16px;
+  border-radius: 4px;
+  border-opacity: 50%;
+}
+
+.btn-blue{
+  background-color: #5C8199;
+  color: white;
+  padding: 8px 20px;
+  border-radius: 4px;
+}

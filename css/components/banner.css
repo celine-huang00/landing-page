@@ -1,0 +1,80 @@
+.banner {
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.4) 50%), url(../../images/food-world.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 150px 0px;
+}
+
+.banner h2 {
+  font-size: 30px;
+  font-weight: bold;
+  opacity: 0.9;
+  font-family: 'courier';
+}
+
+.background-img {
+  background-image: linear-gradient(-225deg, rgba(240,240,240,0.9) 0%, rgba(240,240,240,0.4) 50%), url(../../images/background-img.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+  margin-top: 0px;
+}
+
+#bck-image-wars {
+  background-image:linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url(../../images/background-image.jpeg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+#bck-image-cooking {
+  background-image:linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url(../../images/cooking.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+#bck-image-fuki {
+  background-image:linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(170,170,170,0.4) 50%), url(../../images/riz-fuki.gif);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+#bck-image-ulule {
+  background-image:linear-gradient(-225deg, rgba(40,40,40,0.8) 0%, rgba(170,170,170,0.4) 50%), url(../../images/ulule.png);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+#bck-image-burger {
+  background-image:linear-gradient(-225deg, rgba(40,40,40,0.8) 0%, rgba(170,170,170,0.4) 50%), url(../../images/maque-burger.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+#bck-image-soufflée {
+  background-image:linear-gradient(-225deg, rgba(40,40,40,0.8) 0%, rgba(170,170,170,0.4) 50%), url(../../images/soufflee.gif);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+
+#bck-image-wrap {
+  background-image:linear-gradient(-225deg, rgba(40,40,40,0.8) 0%, rgba(170,170,170,0.4) 50%), url(../../images/wrap-au-karrage.gif);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+#bck-image-rice {
+  background-image:linear-gradient(-225deg, rgba(40,40,40,0.8) 0%, rgba(170,170,170,0.4) 50%), url(../../images/gold-rice.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
